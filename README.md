@@ -12,9 +12,9 @@ Utilizing historical data, we’re going to use (XYZ Model) to attempt to predic
 
 Objectives / Project Questions to Answer
 
-What is XYZ Date winning lotto number?
+What is the next jackpot winning lotto number?
 What day of the week will the next pick be?
-What is the best model(s) to try and predict this type of outcome?
+What are the best model(s) to try and predict this type of outcome?
 
 Data Sources (APIs, Datasets)
 https://data.world/data-ny-gov/5xaw-6ayf/workspace/file?filename=lottery-mega-millions-winning-numbers-beginning-2002-1.csv
