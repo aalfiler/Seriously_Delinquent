@@ -1,4 +1,4 @@
-# WE WON THE LOTTERY!
+# Are you worthy? 
 
 ### Team Members
 - April
