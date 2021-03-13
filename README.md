@@ -7,7 +7,7 @@
 - Ryan
 
 ##  Project Description
-- Utilizing personal data submitted by applicants, we’re going to use (XYZ Model) to quantify the magnitude of risk and predict ‘creditworthiness” to reject or approve issuing credit cards.
+- Utilizing personal data submitted by applicants, we’re going to use (XYZ Model) to quantify the magnitude of risk and predict ‘creditworthiness” to reject or approve issuing credit cards. We will then create a chat bot to assess an provide and immediate decision to an application. 
 
 https://colab.research.google.com/drive/1ZANriFDfMgfxqpOxnZMHuMNxAcY48Az8?usp=sharing
 
@@ -28,9 +28,23 @@ https://colab.research.google.com/drive/1ZANriFDfMgfxqpOxnZMHuMNxAcY48Az8?usp=sh
 ## Rough Breakdown of Tasks
 
 - Select realm of Project Type (Algos, NLP, ML, etc)
+  - Classification/Machine Learning?
+- Select Dataset for baseline analysis
+- Identify Features of Creditworthiness
+  - Run classification on features of data set to identify statistically significant features of the data to make      decisions on.
 - Define Research/Project Outcome Objectives
-- Breakdown Final Project Outcome into Tasks
-- Identify Data Sources/Data Availability
+  - Build Credit Scoring Model
+  - Build Bot to interact with Clients in Real Time Credit Decisions Based on our Scoring Model
+  - Display understanding of New ML Model/Library
+- Load Data into Google Collab Notebook
+  - https://colab.research.google.com/drive/1ZANriFDfMgfxqpOxnZMHuMNxAcY48Az8?usp=sharing
+- Clean the Dataset
+- Transform the dataset to be useable
+- Define the model 
+- Train/test split the data
+- Check fit
+- Train the model
+- Review outcome
 - Define Machine Learning or Statistical Models for Related Project Outcome
 - Build Models and artfully adjust them
   - Load the Data
@@ -38,4 +52,8 @@ https://colab.research.google.com/drive/1ZANriFDfMgfxqpOxnZMHuMNxAcY48Az8?usp=sh
   - Pick the Model
   - Fit
   - Train/Test/Split
-  - Predict Credit Worthiness of New Applications
+- Build Amazon Lex Bot
+  - Create IAM users for Team (Ryan)
+  - Build Framework for BOT with all available dataset features
+  - Minimize number of features based on statistical significance. 
+
