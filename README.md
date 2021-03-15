@@ -1,32 +1,28 @@
-# Are you worthy? 
+# Are You Worthy? 
 
-### Team Members
+### **Team Members**
 - April
 - Endalkachew
 - Matt
 - Ryan
 
-##  Project Description
+### **Project Description**
+
 - Utilizing personal data submitted by applicants, we’re going to use (XYZ Model) to quantify the magnitude of risk and predict ‘creditworthiness” to reject or approve issuing credit cards. We will then create a chat bot to assess an provide and immediate decision to an application. 
 
-https://colab.research.google.com/drive/1ZANriFDfMgfxqpOxnZMHuMNxAcY48Az8?usp=sharing
-
-
-## Objectives / Project Questions to Answer
-
-- Define ‘good’ or ‘bad’ credit?
+### **Objectives / Project Questions to Answer**
+- Define ‘good’ or ‘bad’ credit
 - What is the threshold to accept or reject an application?
 - What is the best model(s) to try and predict this type of outcome?
 - What’re some odd data points with high relevancy to creditworthiness? (optional/stretch goal)
 - Is there correlation to Gender, Age, Income, Number of years employed etc on the approval for a credit card?
 
-## Data Sources
-[Kaggle](https://www.kaggle.com/rikdifos/credit-card-approval-prediction)
-[ICS.edu](https://archive.ics.uci.edu/ml/datasets/credit+approval)
-[US Federal Reserve](https://www.federalreserve.gov/releases/g19/current/default.htm)
+### **Data Sources**
+- [Kaggle](https://www.kaggle.com/rikdifos/credit-card-approval-prediction)
+- [ICS.edu](https://archive.ics.uci.edu/ml/datasets/credit+approval)
+- [US Federal Reserve](https://www.federalreserve.gov/releases/g19/current/default.htm)
 
-## Rough Breakdown of Tasks
-
+### **Rough Breakdown of Tasks**
 - Select realm of Project Type (Algos, NLP, ML, etc)
   - Classification/Machine Learning?
 - Select Dataset for baseline analysis
@@ -55,5 +51,6 @@ https://colab.research.google.com/drive/1ZANriFDfMgfxqpOxnZMHuMNxAcY48Az8?usp=sh
 - Build Amazon Lex Bot
   - Create IAM users for Team (Ryan)
   - Build Framework for BOT with all available dataset features
-  - Minimize number of features based on statistical significance. 
+  - Minimize number of features based on statistical significance (April) 
+
 
