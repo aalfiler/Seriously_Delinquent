@@ -7,6 +7,7 @@
 - Ryan
 
 ### **Project Description**
+
 - Utilizing personal data submitted by applicants, we’re going to use (XYZ Model) to quantify the magnitude of risk and predict ‘creditworthiness” to reject or approve issuing credit cards. We will then create a chat bot to assess an provide and immediate decision to an application. 
 
 ### **Objectives / Project Questions to Answer**
@@ -51,4 +52,5 @@
   - Create IAM users for Team (Ryan)
   - Build Framework for BOT with all available dataset features
   - Minimize number of features based on statistical significance (April) 
+
 
