@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+pandas = "*"
+joblib = "*"
+pydantic = "*"
+scikit-learn = "*"
+uvicorn = "*"
+xgboost = "*"
+jinja2 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
